@@ -32,7 +32,7 @@ Study Person ORCID
 Study Person Roles	principal investigator 	submitter			
 				
 # Study License and Data DOI				
-Study License	CC-BY 4.0			
+Study License	CC BY 4.0			
 Study License URL	https://creativecommons.org/licenses/by/4.0/ 		
 Study Copyright	Walther et al.	
 Study Data Publisher	University of Dundee			
