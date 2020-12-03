@@ -1,8 +1,0 @@
----
-language: python
-sudo: false
-cache: pip
-
-script:
-  - flake8 -v .
-  - yamllint .
